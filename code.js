@@ -1,4 +1,4 @@
 
 function dingdong() {
-  document.getElementById("b").innerHTML = "camera
+  document.getElementById("b").innerHTML = "camera"
 }
